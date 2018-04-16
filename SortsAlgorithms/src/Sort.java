@@ -130,7 +130,7 @@ public class Sort {
 		return c;
 	}
 	
-	public void countingSort(int[] unsorted)
+	public void countingSort(int[] unsorted) //ORDENAMIENTO
 	{
 		int max = Integer.MIN_VALUE;
 		int aux[];
